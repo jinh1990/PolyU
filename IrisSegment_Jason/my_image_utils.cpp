@@ -2011,4 +2011,6 @@ int process_ES_region(Mat img, Mat& mask, Point center, int rds, Mat coffs, doub
 	}
 
 	return 0;
+
+	cout<<"1"<<endl;
 }

@@ -464,7 +464,7 @@ int iris_segment(const char *subjName, Mat src, Mat &dst)
 
 	Mat enhanced_img;
 //	SSREnhancement(no_highlights, enhanced_img);
-	enhanced_img = no_highlights.clone();
+	enhanced_img = no_highlights.clone()
 	
 
 
